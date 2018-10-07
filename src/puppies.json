@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/39825/dog-puppy-small-dog-young-dog-39825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/374906/pexels-photo-374906.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 3,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/89775/dog-hovawart-black-pet-89775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 4,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/159541/wildlife-photography-pet-photography-dog-animal-159541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 5,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 6,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/36436/dalmatians-dog-animal-head.jpg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/374908/pexels-photo-374908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 8,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/97082/weimaraner-puppy-dog-snout-97082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 9,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/544269/pexels-photo-544269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 10,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/64658/pexels-photo-64658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 11,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/839470/pexels-photo-839470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "image": "https://images.pexels.com/photos/942260/pexels-photo-942260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+]

@@ -1,0 +1,20 @@
+.navbar-text{
+    color: white;
+    margin-right: 30px;
+    font-size: larger;
+}
+
+.navbar-brand{
+    font-size: x-large;
+}
+
+.center{
+color: white;
+font-size: 25px;
+margin-left: 40px;
+
+}
+
+/* .navbar{
+    position: fixed;
+} */

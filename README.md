@@ -1,3 +1,25 @@
+# Clicky Game
+
+Clicky Game is a React app that gives the user a fun memory test game with images. In this game your score is determined by how many images you can click without clicking the same one twice. What makes the game a challenge is a method that shuffles all images everytime you click one. Each successful click adds one point to your score and the top score is also kept track of. Have fun!
+
+
+
+## Install the prerequisites on your computer
+
+Use terminal / git bash to run npm install for required npm packages
+* $ npm install
+Use terminal / git bash to run the application with Node.js and React
+* $ npm run start
+
+## Built With
+- Javascript
+- Node.js
+- React.js
+- CSS
+- Bootstrap
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

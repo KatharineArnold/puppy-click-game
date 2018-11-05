@@ -18,6 +18,9 @@ Use terminal / git bash to run the application with Node.js and React
 - CSS
 - Bootstrap
 
+## Live Link
+https://katharinearnold.github.io/puppy-click-game
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
